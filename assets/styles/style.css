@@ -12,13 +12,22 @@ body{
     height: 100vh;
     background-color: #c7cdd3;
 }
-.card{
-    width: 150px;
-    height: 150px;
-    position: relative;
 
-    transform-style: preserve-3d;
-    transition: transform .5s;
+
+
+
+
+
+
+
+
+
+
+
+
+
+.card{
+    
 }
 .card_front, .card_back{
     width: 100%;
@@ -46,6 +55,18 @@ body{
     /* display: none; */
     
 }
+
+
+
+
+
+
+
+
+
+
+
+
 
 #gameOver{
     position: absolute;
